@@ -154,7 +154,7 @@ hr-recruitment-dashboard/
 
 ### Steps
 1. Clone or download this repository
-2. Open `HR_Recruitment_Dashboard.pbix` in Power BI Desktop
+2. Open `Recruitment system.pbix` in Power BI Desktop
 3. If data doesn't load: Home → Transform Data → Data Source Settings → update path to `data/HR_Data_Germany.xlsx`
 4. Click **Refresh** to reload data
 5. Explore all 6 pages using the navigation buttons at the top
