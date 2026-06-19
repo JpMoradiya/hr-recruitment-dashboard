@@ -15,7 +15,7 @@
 | ![Recruiters](screenshots/05_recruiters.png) | **Recruiter Performance** — Hires, speed, cost per recruiter |
 | ![Insights](screenshots/06_insights.png) | **Key Insights** — Summary of findings with Smart Narrative |
 
-> 📸 Add your own screenshots from Power BI to the `/screenshots` folder to display them here.
+
 
 ---
 
@@ -195,7 +195,7 @@ The dataset is **synthetic/generated** data representing a realistic German HR r
 
 Built as a portfolio project to demonstrate end-to-end Power BI development skills — from raw data to published interactive dashboard.
 
-**Connect with me on LinkedIn:** [your LinkedIn URL here]
+**Connect with me on LinkedIn: https://www.linkedin.com/in/jemish-moradiya-8b6b4b23a/
 
 ---
 
